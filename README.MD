@@ -4,6 +4,11 @@ This is a Keras implementation of "[A 12-Lead ECG Arrhythmia Classification Meth
 
 - final_train folder:  
 contains the training code.
+```bash
+python attention_12leads_10nets.py
+python attention_12leads_1nets.py
+python densenet_12leads_10nets.py
+```
 
 - final_run_semi folder:  
 contains the predicting code of semi-final.
@@ -36,5 +41,6 @@ The codes contains the following components:
 We verify that your code is working as you intended, by running "run.sh" on the test set, then comparing the results with references.
 
 ### Details
-See the [The First China ECG Intelligent Competition](http://mdi.ids.tsinghua.edu.cn/#/) webpage for more details, including description and results of the competition. See the [First International Workshop, MLMECH 2019](https://link.springer.com/book/10.1007%2F978-3-030-33327-0), Held in Conjunction with MICCAI 2019 webpage for more solutions, including papers and solutions of the "The First China ECG Intelligent Competition".  
+1、See the [The First China ECG Intelligent Competition](http://mdi.ids.tsinghua.edu.cn/#/) webpage for more details, including description and results of the competition.   
+2、See the [First International Workshop, MLMECH 2019](https://link.springer.com/book/10.1007%2F978-3-030-33327-0), Held in Conjunction with MICCAI 2019 webpage for more solutions, including papers and solutions of the "The First China ECG Intelligent Competition".  
 
