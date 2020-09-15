@@ -46,5 +46,5 @@ We verify that your code is working as you intended, by running "run.sh" on the 
 
 ### Details
 1、See the [The First China ECG Intelligent Competition](http://mdi.ids.tsinghua.edu.cn/#/) webpage for more details, including description and results of the competition.   
-2、See the [First International Workshop, MLMECH 2019](https://link.springer.com/book/10.1007%2F978-3-030-33327-0), Held in Conjunction with MICCAI 2019 webpage for more solutions, including papers and solutions of the "The First China ECG Intelligent Competition".  
+2、See the [First International Workshop, MLMECH 2019](https://link.springer.com/book/10.1007%2F978-3-030-33327-0), [BaiduYun, password:hjsp](https://pan.baidu.com/s/1W0ko8VbFvQwLKaf8ZRoxBA)Held in Conjunction with MICCAI 2019 webpage for more solutions, including papers and solutions of the "The First China ECG Intelligent Competition". 
 
