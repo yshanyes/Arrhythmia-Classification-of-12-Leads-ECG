@@ -1,4 +1,4 @@
-This is a Keras implementation of "A 12-Lead ECG Arrhythmia Classification Method Based on 1D Densely Connected CNN" paper and a 3rd prize solution of "The First China ECG Intelligent Competition".
+This is a Keras implementation of "[A 12-Lead ECG Arrhythmia Classification Method Based on 1D Densely Connected CNN](https://link.springer.com/book/10.1007%2F978-3-030-33327-0)" paper and a 3rd prize solution of "[The First China ECG Intelligent Competition](https://www.dcjingsai.com/v2/cmptDetail.html?id=277)".
 
 ### Contents
 
