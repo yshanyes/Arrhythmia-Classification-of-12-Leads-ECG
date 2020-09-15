@@ -12,10 +12,14 @@ python densenet_12leads_10nets.py
 
 - final_run_semi folder:  
 contains the predicting code of semi-final.
-
+```bash
+python challenge.py --test_path test_data_path
+```
 - final_run_final folder:  
 contains the predicting code of final.
-
+```bash
+python challenge.py --test_path test_data_path
+```
 
 The codes contains the following components:
 
